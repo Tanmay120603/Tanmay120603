@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tanmaybhansali07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1funznQuXH1oKZl7vYc34cUtjZgfYW9zl/view?usp=sharing](https://drive.google.com/file/d/1funznQuXH1oKZl7vYc34cUtjZgfYW9zl/view?usp=sharing)
+- 📄 Know about my experiences (Resume link) [https://drive.google.com/file/d/1funznQuXH1oKZl7vYc34cUtjZgfYW9zl/view?usp=sharing](https://drive.google.com/file/d/1funznQuXH1oKZl7vYc34cUtjZgfYW9zl/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
