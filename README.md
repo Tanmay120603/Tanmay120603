@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Tanmay Bhansali</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🔭 I’m currently working on a chat application with a secure and robust authentication system that I’ve already built. The authentication system includes OTP verification, token-based security, encrypted local storage, password management, and social login options. 🔐 While the chat functionality is still under development, this secure foundation ensures a seamless and protected user experience, setting the stage for real-time messaging and advanced communication features.🌐 You can check out the authentication flow in my [LinkedIn post.](https://www.linkedin.com/feed/update/urn:li:activity:7268270260741427200/)
-
 - 🌱 I’m currently learning **Angular.js, MySQL, and Redis to expand my expertise in building dynamic frontends, efficient database management, and optimized caching solutions for scalable applications.**
 
 - 👯 I’m looking to collaborate on draw-fill-svgs, an NPM package that makes creating SVG animations effortless, which I have recently built. With customizable stroke and fill options, it’s lightweight, React-friendly, and already used by 500+ developers. 🚀 Now, I’m looking for collaborators to take this package to the next level! Whether it’s adding new features, optimizing performance, or refining documentation, your contributions can make a big impact. 💡 Let’s build something amazing together! 🌟 Check it out here: [draw-fill-svgs NPM package.](https://www.npmjs.com/package/draw-fill-svgs)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-site-ivory-chi.vercel.app/](https://portfolio-site-ivory-chi.vercel.app/)
 
-- 📝 I regularly write articles on [https://hashnode.com/@tanmay884](https://hashnode.com/@tanmay884)
-
 - 💬 Ask me about **implementing real-time features with Socket.IO, and creating responsive UIs using ReactJS and modern CSS frameworks like Tailwind CSS. I can also guide you on integrating AI tools into projects, as I have done in my PostGenie Blog Site, or share insights on publishing an npm package like draw-fill-svgs for SVG animations. Let’s talk about creating dynamic and user-centric solutions!**
 
 - 📫 How to reach me **tanmaybhansali07@gmail.com**
 
-- 📄 Know about my experiences (Resume link) [https://drive.google.com/file/d/18NfAky5nXZKY9Yr4lqHi2iSFvqj_nceF/view?usp=drive_link)(https://drive.google.com/file/d/18NfAky5nXZKY9Yr4lqHi2iSFvqj_nceF/view?usp=sharing]
+- 📄 Know about my experiences (Resume link) https://drive.google.com/file/d/1funznQuXH1oKZl7vYc34cUtjZgfYW9zl/view?usp=sharing
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tanmaybhansali1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanmaybhansali1" height="30" width="40" /></a>
