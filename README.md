@@ -1,22 +1,23 @@
 <h1 align="center">Hi 👋, I'm Tanmay Bhansali</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
+- 👨‍💻 Hi, I’m Tanmay Bhansali, a full-stack developer from India with experience in building responsive and real-time web applications using technologies like React, Node.js, and MongoDB. I’m committed to writing clean, maintainable code and continuously expanding my skill set to deliver scalable and user-focused solutions. 💡🚀
+
 - 🌱 I’m currently learning **Angular.js, MySQL, and Redis to expand my expertise in building dynamic frontends, efficient database management, and optimized caching solutions for scalable applications.**
 
 - 👯 I’m looking to collaborate on draw-fill-svgs, an NPM package that makes creating SVG animations effortless, which I have recently built. With customizable stroke and fill options, it’s lightweight, React-friendly, and already used by 500+ developers. 🚀 Now, I’m looking for collaborators to take this package to the next level! Whether it’s adding new features, optimizing performance, or refining documentation, your contributions can make a big impact. 💡 Let’s build something amazing together! 🌟 Check it out here: [draw-fill-svgs NPM package.](https://www.npmjs.com/package/draw-fill-svgs)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-site-ivory-chi.vercel.app/](https://portfolio-site-ivory-chi.vercel.app/)
+- 👨‍💻 All of my projects are available at [View Portfolio](https://portfolio-site-nx2w.vercel.app/)
 
 - 💬 Ask me about **implementing real-time features with Socket.IO, and creating responsive UIs using ReactJS and modern CSS frameworks like Tailwind CSS. I can also guide you on integrating AI tools into projects, as I have done in my PostGenie Blog Site, or share insights on publishing an npm package like draw-fill-svgs for SVG animations. Let’s talk about creating dynamic and user-centric solutions!**
 
 - 📫 How to reach me **tanmaybhansali07@gmail.com**
 
-- 📄 Know about my experiences (Resume link) https://drive.google.com/file/d/1funznQuXH1oKZl7vYc34cUtjZgfYW9zl/view?usp=sharing
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1funznQuXH1oKZl7vYc34cUtjZgfYW9zl/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tanmaybhansali1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanmaybhansali1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tanmay-bhansali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmay-bhansali" height="30" width="40" /></a>
-<a href="https://hashnode.com/@tanmay884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@tanmay884" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
